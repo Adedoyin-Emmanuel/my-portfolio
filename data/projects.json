@@ -1,18 +1,26 @@
 {
     "projects":[
         {
-            "title": "Some dummy title",
-            "imageUrl": "",
+            "title": "product Keeper",
+            "imageUrl": "https://media.istockphoto.com/id/1359570633/photo/shopping-cart-on-white.jpg?b=1&s=170667a&w=0&k=20&c=FgdsIaaFmPIdduyborVyCSMRpywz5kh_TKc554gsLHo=",
             "project_url": "",
-            "description": "some basi project description",
-            "tags": [ "react", "postgresql", "nodejs" ]
+            "description": "A fullstack product keeping application",
+            "tags": [ "PHP", "Javascript", "Bootstrap" ]
         },
         {
-            "title": "Some dummy title",
-            "imageUrl": "",
-            "project_url": "",
-            "description": "some basi project description",
-            "tags": [ "react", "postgresql", "nodejs" ]
+            "title": "Blaze",
+            "imageUrl": "https://images.unsplash.com/photo-1628126235206-5260b9ea6441?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8c3BhY2VzaGlwfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+            "project_url": "https://blaze.rf.gd",
+            "description": "A software that opens multiple softwares",
+            "tags": [ "PHP", "Javascript", "Bootstrap","Batch Programming"  ]
+        },
+
+        {
+            "title": "Testbase",
+            "imageUrl": "https://media.istockphoto.com/id/1347394607/photo/blue-hardcover-book-on-white-background-with-clipping-path.jpg?b=1&s=170667a&w=0&k=20&c=00UWvkAaHROqxH77WufL5z2PmeFo01CGUg684QM4XSE=",
+            "project_url": "https://testbasedev.000webhostapp.com",
+            "description": "An education platform that allows users to take CBT and also socialize",
+            "tags": [ "PHP", "Javascript", "Bootstrap" ]
         }
     ]
 }
