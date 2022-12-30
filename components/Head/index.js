@@ -5,7 +5,7 @@ export default function DomHead({ pageName = "Home Page" }) {
 
     return (
         <Head>
-            <title>Baaymax - {pageName} </title>
+            <title>Adedoyin Emmanuel's  - {pageName} </title>
             {/* meta tags begins */}
             {/* Primary Meta Tags */}
             <meta name="title" content="Adedoyin Emmanuel " />

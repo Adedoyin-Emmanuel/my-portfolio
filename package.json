@@ -16,6 +16,7 @@
     "gradient-string": "^2.0.1",
     "inquirer": "^8.2.4",
     "next": "12.1.5",
+    "nextjs": "^0.0.3",
     "notyf": "^3.10.0",
     "react": "18.1.0",
     "react-dom": "18.1.0",
